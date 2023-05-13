@@ -1,15 +1,16 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main()
 {
-    char first_name[10];
-    char last_name[10];
+    string * first_name;
+    string * last_name;
     int age = 0;
     char grade;
     cout << "What is your first name? ";
-    cin.getline(first_name, 10);
+    getline(cin, first_name);
     cout << "What is your last name? ";
-    cin.getline(last_name, 10);
+    getline(cin, last_name);
     cout << "What letter grade do you deserve? ";
     cin >> grade;
     cout << "What is your age? ";
