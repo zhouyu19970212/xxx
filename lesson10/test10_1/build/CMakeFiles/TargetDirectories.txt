@@ -1,0 +1,3 @@
+D:/coding/cpp/lesson10/test10_1/build/CMakeFiles/test10_1.dir
+D:/coding/cpp/lesson10/test10_1/build/CMakeFiles/edit_cache.dir
+D:/coding/cpp/lesson10/test10_1/build/CMakeFiles/rebuild_cache.dir
