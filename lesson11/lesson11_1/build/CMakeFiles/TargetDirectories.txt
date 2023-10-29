@@ -1,0 +1,3 @@
+D:/coding/cpp/lesson11/lesson11_1/build/CMakeFiles/randwalk.dir
+D:/coding/cpp/lesson11/lesson11_1/build/CMakeFiles/edit_cache.dir
+D:/coding/cpp/lesson11/lesson11_1/build/CMakeFiles/rebuild_cache.dir

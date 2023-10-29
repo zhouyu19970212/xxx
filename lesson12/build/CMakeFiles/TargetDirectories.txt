@@ -1,0 +1,3 @@
+D:/coding/cpp/lesson12/build/CMakeFiles/bank.dir
+D:/coding/cpp/lesson12/build/CMakeFiles/edit_cache.dir
+D:/coding/cpp/lesson12/build/CMakeFiles/rebuild_cache.dir

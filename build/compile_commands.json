@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/coding/cpp/build",
+  "command": "D:\\code\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\golf.dir\\golf.obj -c D:\\coding\\cpp\\lesson9\\golf.cpp",
+  "file": "D:/coding/cpp/lesson9/golf.cpp",
+  "output": "CMakeFiles/golf.dir/golf.obj"
+},
+{
+  "directory": "D:/coding/cpp/build",
+  "command": "D:\\code\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\golf.dir\\main.obj -c D:\\coding\\cpp\\lesson9\\main.cpp",
+  "file": "D:/coding/cpp/lesson9/main.cpp",
+  "output": "CMakeFiles/golf.dir/main.obj"
+}
+]
