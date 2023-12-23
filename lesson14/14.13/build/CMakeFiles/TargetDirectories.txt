@@ -1,0 +1,3 @@
+D:/coding/cpp/lesson14/14.13/build/CMakeFiles/stacktp.dir
+D:/coding/cpp/lesson14/14.13/build/CMakeFiles/edit_cache.dir
+D:/coding/cpp/lesson14/14.13/build/CMakeFiles/rebuild_cache.dir
