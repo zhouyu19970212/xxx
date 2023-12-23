@@ -1,0 +1,3 @@
+D:/coding/cpp/lesson13/class13_1_3/build/CMakeFiles/tabtenn1.dir
+D:/coding/cpp/lesson13/class13_1_3/build/CMakeFiles/edit_cache.dir
+D:/coding/cpp/lesson13/class13_1_3/build/CMakeFiles/rebuild_cache.dir

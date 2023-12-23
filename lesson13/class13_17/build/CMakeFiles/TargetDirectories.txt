@@ -1,0 +1,4 @@
+D:/coding/cpp/lesson13/class13_17/build/CMakeFiles/brass1.dir
+D:/coding/cpp/lesson13/class13_17/build/CMakeFiles/brass2.dir
+D:/coding/cpp/lesson13/class13_17/build/CMakeFiles/edit_cache.dir
+D:/coding/cpp/lesson13/class13_17/build/CMakeFiles/rebuild_cache.dir
